@@ -8,8 +8,8 @@ public class Main {
         // Line 2 Kwabena or Angel
         story[1] = "The city was starting to flood and the people were drenched from the heavy thunderstorm, and then";
 
-        // Line 3 Kwabena or Angel
-        story[2] = null;
+        // Line 3 Angel
+        story[2] = "The people were so mad their clothes dried off and they started to appear red, and then";
 
         // Line 4 Aaryan
         story[3] = null;
