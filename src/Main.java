@@ -12,7 +12,8 @@ public class Main {
         story[2] = "The people were so mad their clothes dried off and they started to appear red, and then";
 
         // Line 4 Aaryan
-        story[3] = null;
+        story[3] = "Rain Man stepped in and explained that the cloud was just having a bad day and didn't mean it." +
+                    "Everyone calmed down, including the cloud, and they all lived happily ever after. The end.";
 
         for (String piece : story) {
             if (piece != null) {
