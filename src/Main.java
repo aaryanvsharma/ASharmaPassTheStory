@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String[] story = new String[50];
+        String[] story = new String[10];
 
         // Line 1 Aaryan
         story[0] = "Once upon a time, a cloud with an angry face started bringing rain and thunder over a city, and then";
@@ -14,9 +14,9 @@ public class Main {
         // Line 4 Aaryan
         story[3] = null;
 
-        for (int i = 0; i < story.length; i++) {
-            if (story[i] != null) {
-                System.out.println(story[i]);
+        for (String piece : story) {
+            if (piece != null) {
+                System.out.println(piece);
             }
         }
     }
